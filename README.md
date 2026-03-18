@@ -15,3 +15,5 @@ This project represents a conceptual design of a CRM (Customer Relationship Mana
 
 ## Purpose
 Designed as a scalable solution for small to medium-sized businesses.
+## Documentation
+- [System Overview](system-overview.md)
